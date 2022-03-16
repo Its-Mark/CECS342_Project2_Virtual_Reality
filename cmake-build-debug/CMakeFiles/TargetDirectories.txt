@@ -1,0 +1,3 @@
+C:/Users/milk8/Desktop/CSULB/CECS 342/Project2_Virtual_Reality/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir
+C:/Users/milk8/Desktop/CSULB/CECS 342/Project2_Virtual_Reality/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/milk8/Desktop/CSULB/CECS 342/Project2_Virtual_Reality/cmake-build-debug/CMakeFiles/rebuild_cache.dir
