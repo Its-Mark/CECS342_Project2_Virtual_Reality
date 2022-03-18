@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/milk8/Desktop/CSULB/CECS 342/Project2_Virtual_Reality/main.cpp">
+		<Unit filename="C:/Users/milk8/Desktop/CSULB/CECS 342/Project2_Virtual_Reality/main.c">
 			<Option target="Project2_Virtual_Reality"/>
 		</Unit>
 		<Unit filename="C:/Users/milk8/Desktop/CSULB/CECS 342/Project2_Virtual_Reality/CMakeLists.txt">

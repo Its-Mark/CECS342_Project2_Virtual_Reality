@@ -11,7 +11,22 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a19768f4-2bb1-4f77-bad7-383c8aac67f3" name="Default Changelist" comment="" />
+    <list default="true" id="a19768f4-2bb1-4f77-bad7-383c8aac67f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project3 - Copy.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Project2_Virtual_Reality.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Project2_Virtual_Reality.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,14 +36,22 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="26UFOgZC3WWXCpsYCGOZBSe3Pzs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -56,13 +79,21 @@
       <option name="presentableId" value="Default" />
       <updated>1647470228253</updated>
       <workItem from="1647470233520" duration="2459000" />
+      <workItem from="1647556397093" duration="5288000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="290" y="27" key="CommitChangelistDialog2" timestamp="1647561728261">
+      <screen x="0" y="0" width="1368" height="864" />
+    </state>
+    <state x="290" y="27" key="CommitChangelistDialog2/0.0.1368.864@0.0.1368.864" timestamp="1647561728261" />
     <state x="466" y="187" key="FileChooserDialogImpl" timestamp="1647470876628">
       <screen x="0" y="0" width="1368" height="864" />
     </state>
@@ -87,9 +118,9 @@
       <screen x="0" y="0" width="1368" height="864" />
     </state>
     <state x="187" y="75" key="SettingsEditor/0.0.1368.864@0.0.1368.864" timestamp="1647470880575" />
-    <state x="380" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1647470238614">
+    <state x="380" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1647556397604">
       <screen x="0" y="0" width="1368" height="864" />
     </state>
-    <state x="380" y="257" key="com.intellij.ide.util.TipDialog/0.0.1368.864@0.0.1368.864" timestamp="1647470238614" />
+    <state x="380" y="257" key="com.intellij.ide.util.TipDialog/0.0.1368.864@0.0.1368.864" timestamp="1647556397604" />
   </component>
 </project>

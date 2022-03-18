@@ -1,15 +1,15 @@
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
+  "C"
   )
 # The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/milk8/Desktop/CSULB/CECS 342/Project2_Virtual_Reality/main.cpp" "C:/Users/milk8/Desktop/CSULB/CECS 342/Project2_Virtual_Reality/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/main.cpp.obj"
+set(CMAKE_DEPENDS_CHECK_C
+  "C:/Users/milk8/Desktop/CSULB/CECS 342/Project2_Virtual_Reality/main.c" "C:/Users/milk8/Desktop/CSULB/CECS 342/Project2_Virtual_Reality/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/main.c.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
+set(CMAKE_C_TARGET_INCLUDE_PATH
   )
 
 # Targets to which this target links.
