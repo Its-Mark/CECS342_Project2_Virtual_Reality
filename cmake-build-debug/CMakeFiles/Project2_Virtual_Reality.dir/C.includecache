@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/milk8/Desktop/CSULB/CECS 342/Project2_Virtual_Reality/main.c
+stdio.h
+C:/Users/milk8/Desktop/CSULB/CECS 342/Project2_Virtual_Reality/stdio.h
+stdlib.h
+C:/Users/milk8/Desktop/CSULB/CECS 342/Project2_Virtual_Reality/stdlib.h
+

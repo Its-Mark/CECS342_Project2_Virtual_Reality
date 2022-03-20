@@ -12,20 +12,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a19768f4-2bb1-4f77-bad7-383c8aac67f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project3 - Copy.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CommissionEmpOutput.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HourlyEmpOutput.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeniorSalesEmpOutput.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Project2_Virtual_Reality.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Project2_Virtual_Reality.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Project2_Virtual_Reality.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Project2_Virtual_Reality.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +76,7 @@
       <updated>1647470228253</updated>
       <workItem from="1647470233520" duration="2459000" />
       <workItem from="1647556397093" duration="5288000" />
+      <workItem from="1647637310346" duration="16962000" />
     </task>
     <servers />
   </component>
@@ -98,29 +95,33 @@
       <screen x="0" y="0" width="1368" height="864" />
     </state>
     <state x="466" y="187" key="FileChooserDialogImpl/0.0.1368.864@0.0.1368.864" timestamp="1647470876628" />
-    <state width="1326" height="224" key="GridCell.Tab.0.bottom" timestamp="1647472710629">
+    <state width="1326" height="661" key="GridCell.Tab.0.bottom" timestamp="1647764077586">
       <screen x="0" y="0" width="1368" height="864" />
     </state>
-    <state width="1326" height="224" key="GridCell.Tab.0.bottom/0.0.1368.864@0.0.1368.864" timestamp="1647472710629" />
-    <state width="1326" height="224" key="GridCell.Tab.0.center" timestamp="1647472710629">
+    <state width="1326" height="661" key="GridCell.Tab.0.bottom/0.0.1368.864@0.0.1368.864" timestamp="1647764077586" />
+    <state width="1326" height="661" key="GridCell.Tab.0.center" timestamp="1647764077585">
       <screen x="0" y="0" width="1368" height="864" />
     </state>
-    <state width="1326" height="224" key="GridCell.Tab.0.center/0.0.1368.864@0.0.1368.864" timestamp="1647472710629" />
-    <state width="1326" height="224" key="GridCell.Tab.0.left" timestamp="1647472710628">
+    <state width="1326" height="661" key="GridCell.Tab.0.center/0.0.1368.864@0.0.1368.864" timestamp="1647764077585" />
+    <state width="1326" height="661" key="GridCell.Tab.0.left" timestamp="1647764077585">
       <screen x="0" y="0" width="1368" height="864" />
     </state>
-    <state width="1326" height="224" key="GridCell.Tab.0.left/0.0.1368.864@0.0.1368.864" timestamp="1647472710628" />
-    <state width="1326" height="224" key="GridCell.Tab.0.right" timestamp="1647472710629">
+    <state width="1326" height="661" key="GridCell.Tab.0.left/0.0.1368.864@0.0.1368.864" timestamp="1647764077585" />
+    <state width="1326" height="661" key="GridCell.Tab.0.right" timestamp="1647764077585">
       <screen x="0" y="0" width="1368" height="864" />
     </state>
-    <state width="1326" height="224" key="GridCell.Tab.0.right/0.0.1368.864@0.0.1368.864" timestamp="1647472710629" />
+    <state width="1326" height="661" key="GridCell.Tab.0.right/0.0.1368.864@0.0.1368.864" timestamp="1647764077585" />
     <state x="187" y="75" key="SettingsEditor" timestamp="1647470880575">
       <screen x="0" y="0" width="1368" height="864" />
     </state>
     <state x="187" y="75" key="SettingsEditor/0.0.1368.864@0.0.1368.864" timestamp="1647470880575" />
-    <state x="380" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1647556397604">
+    <state x="380" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1647637312500">
       <screen x="0" y="0" width="1368" height="864" />
     </state>
-    <state x="380" y="257" key="com.intellij.ide.util.TipDialog/0.0.1368.864@0.0.1368.864" timestamp="1647556397604" />
+    <state x="380" y="257" key="com.intellij.ide.util.TipDialog/0.0.1368.864@0.0.1368.864" timestamp="1647637312500" />
+    <state x="349" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1647722579564">
+      <screen x="0" y="0" width="1368" height="864" />
+    </state>
+    <state x="349" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.864@0.0.1368.864" timestamp="1647722579564" />
   </component>
 </project>
