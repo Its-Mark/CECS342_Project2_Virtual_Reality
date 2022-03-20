@@ -11,18 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a19768f4-2bb1-4f77-bad7-383c8aac67f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CommissionEmpOutput.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HourlyEmpOutput.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeniorSalesEmpOutput.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project2_Virtual_Reality.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Project2_Virtual_Reality.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Project2_Virtual_Reality.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-    </list>
+    <list default="true" id="a19768f4-2bb1-4f77-bad7-383c8aac67f3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +65,7 @@
       <updated>1647470228253</updated>
       <workItem from="1647470233520" duration="2459000" />
       <workItem from="1647556397093" duration="5288000" />
-      <workItem from="1647637310346" duration="16962000" />
+      <workItem from="1647637310346" duration="17015000" />
     </task>
     <servers />
   </component>
@@ -95,22 +84,22 @@
       <screen x="0" y="0" width="1368" height="864" />
     </state>
     <state x="466" y="187" key="FileChooserDialogImpl/0.0.1368.864@0.0.1368.864" timestamp="1647470876628" />
-    <state width="1326" height="661" key="GridCell.Tab.0.bottom" timestamp="1647764077586">
+    <state width="1326" height="211" key="GridCell.Tab.0.bottom" timestamp="1647764360802">
       <screen x="0" y="0" width="1368" height="864" />
     </state>
-    <state width="1326" height="661" key="GridCell.Tab.0.bottom/0.0.1368.864@0.0.1368.864" timestamp="1647764077586" />
-    <state width="1326" height="661" key="GridCell.Tab.0.center" timestamp="1647764077585">
+    <state width="1326" height="211" key="GridCell.Tab.0.bottom/0.0.1368.864@0.0.1368.864" timestamp="1647764360802" />
+    <state width="1326" height="211" key="GridCell.Tab.0.center" timestamp="1647764360802">
       <screen x="0" y="0" width="1368" height="864" />
     </state>
-    <state width="1326" height="661" key="GridCell.Tab.0.center/0.0.1368.864@0.0.1368.864" timestamp="1647764077585" />
-    <state width="1326" height="661" key="GridCell.Tab.0.left" timestamp="1647764077585">
+    <state width="1326" height="211" key="GridCell.Tab.0.center/0.0.1368.864@0.0.1368.864" timestamp="1647764360802" />
+    <state width="1326" height="211" key="GridCell.Tab.0.left" timestamp="1647764360802">
       <screen x="0" y="0" width="1368" height="864" />
     </state>
-    <state width="1326" height="661" key="GridCell.Tab.0.left/0.0.1368.864@0.0.1368.864" timestamp="1647764077585" />
-    <state width="1326" height="661" key="GridCell.Tab.0.right" timestamp="1647764077585">
+    <state width="1326" height="211" key="GridCell.Tab.0.left/0.0.1368.864@0.0.1368.864" timestamp="1647764360802" />
+    <state width="1326" height="211" key="GridCell.Tab.0.right" timestamp="1647764360802">
       <screen x="0" y="0" width="1368" height="864" />
     </state>
-    <state width="1326" height="661" key="GridCell.Tab.0.right/0.0.1368.864@0.0.1368.864" timestamp="1647764077585" />
+    <state width="1326" height="211" key="GridCell.Tab.0.right/0.0.1368.864@0.0.1368.864" timestamp="1647764360802" />
     <state x="187" y="75" key="SettingsEditor" timestamp="1647470880575">
       <screen x="0" y="0" width="1368" height="864" />
     </state>
